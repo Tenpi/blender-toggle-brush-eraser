@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Toggle Brush/Eraser",
     "description": "Toggle brush/eraser with b/e keys and other useful bindings.",
-    "author": "Moepi",
+    "author": "Moebits",
     "version": (1, 0),
     "blender": (2, 80, 0),
     "category": "Paint"
